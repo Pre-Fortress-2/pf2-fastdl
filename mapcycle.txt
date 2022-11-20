@@ -21,6 +21,7 @@ cp_canalzone
 cp_chaoscanyon_a5a
 cp_dashcon_dash
 ctf_2fort_classic_pf2
+ctf_chaos
 ctf_convoy_v2_pf2
 ctf_crossover2_b2FIX
 ctf_the_rock_final
