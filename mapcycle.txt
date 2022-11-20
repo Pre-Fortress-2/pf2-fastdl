@@ -16,6 +16,7 @@ arena_betteryard_rc1
 arena_lumberyard
 arena_ravine
 arena_watchtower
+balloon_race_v2b_pf2
 cp_canalzone
 cp_chaoscanyon_a5a
 cp_dashcon_dash
