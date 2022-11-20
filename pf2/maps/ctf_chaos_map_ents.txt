@@ -1,0 +1,36 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	ctf_chaos
+	{
+		"item_armor"
+		{
+			"origin"	"30 800 166"
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-808 1310 388"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"808 1310 388"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"290 -600 336"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"-290 -600 336"
+		}
+		"prop_dynamic"
+		{
+			"model"		"models/props_2fort/chicken.mdl" // Model file path.
+			"origin"	"0 -810 200"	// Coordinates.
+			"angles"	"0 90 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+	}
+}
