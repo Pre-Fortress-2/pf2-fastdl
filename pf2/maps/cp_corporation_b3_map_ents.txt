@@ -1,0 +1,72 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	cp_corporation_b3
+	{
+
+/first stage
+		"item_armor"
+		{
+			"origin"	"-1880 -1100 196"
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-1942 -781 196"
+		}
+
+//second stage
+		"item_armor"
+		{
+			"origin"	"508 930 196"
+			"angles"	"0 0 0"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"706 1050 200"
+		}
+		"prop_dynamic"
+		{
+			"model"		"models/props_2fort/chicken.mdl" // Model file path.
+			"origin"	"547 -432 672"	// Coordinates.
+			"angles"	"0 90 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+
+		"item_armor"
+		{
+			"origin"	"2685 1212 196"
+			"angles"	"0 0 0"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"2404 1096 405"
+		}
+
+
+//third stage
+
+		"item_grenadepack"
+		{
+			"origin"	"458 -1616 404"
+		}
+		"item_armor"
+		{
+			"origin"	"688 -626 404"
+			"angles"	"0 0 0"
+		}
+		"item_armor"
+		{
+			"origin"	"996 -668 608"
+			"angles"	"0 0 0"
+		}
+		"prop_dynamic"
+		{
+			"model"		"models/props_2fort/chicken.mdl" // Model file path.
+			"origin"	"547 -432 672"	// Coordinates.
+			"angles"	"0 -90 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+	}
+}
