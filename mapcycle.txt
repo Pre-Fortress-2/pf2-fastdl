@@ -39,3 +39,4 @@ koth_zythesnow_a10
 pl_strider_v3
 rock2_b1_pf2
 tad_hydro
+cp_corporation_b3
