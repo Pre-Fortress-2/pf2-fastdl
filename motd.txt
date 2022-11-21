@@ -14,6 +14,7 @@ cp_corporation_b3
 cp_dashcon_dash
 ctf_2fort_classic_pf2
 ctf_chaos
+ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
 ctf_crossover2_b2FIX
 ctf_the_rock_final
