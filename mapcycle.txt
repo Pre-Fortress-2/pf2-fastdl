@@ -10,7 +10,8 @@ ctf_badlands
 ctf_well
 koth_crossover
 pl_goldrush
-tc_hydroad_castle4_pf2
+ad_avanti_b1
+ad_castle4_pf2
 ad_storm
 arena_betteryard_rc1
 arena_lumberyard
