@@ -22,7 +22,7 @@ dm_spookface1
 dom_canalzone2_b4
 es_cave3
 koth_badlands
-koth_harvest_pf2
+koth_harvest_pf2_new
 koth_rooftop_reborn_4
 koth_spillway_rc3a
 koth_zythesnow_a10
