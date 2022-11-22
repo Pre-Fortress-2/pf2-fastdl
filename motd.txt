@@ -3,6 +3,7 @@ Map List:
 ad_avanti_b1
 ad_castle4_pf2
 ad_storm
+arena_2fort
 arena_betteryard_rc1
 arena_lumberyard
 arena_ravine
@@ -12,6 +13,7 @@ cp_canalzone
 cp_chaoscanyon_a5a
 cp_corporation_b3
 cp_dashcon_dash
+cp_labor_pf2
 ctf_chaos
 ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
