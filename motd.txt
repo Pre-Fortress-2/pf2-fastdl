@@ -12,7 +12,6 @@ cp_canalzone
 cp_chaoscanyon_a5a
 cp_corporation_b3
 cp_dashcon_dash
-ctf_2fort_classic_pf2
 ctf_chaos
 ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
