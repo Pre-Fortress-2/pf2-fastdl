@@ -3,6 +3,7 @@ Map List:
 ad_avanti_b1
 ad_castle4_pf2
 ad_cliffside_b1
+ad_egypt
 ad_storm
 arena_2fort
 arena_ravine
