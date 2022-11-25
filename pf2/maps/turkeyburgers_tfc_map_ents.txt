@@ -1,0 +1,62 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	turkeyburgers_tfc
+	{
+
+		"item_armor"
+		{
+			"origin"	"1529 1348 260"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"1597 2385 4"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"317 1747 404"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"1062 284 324"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"1599 638 4"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"925 1262 228"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"517 1714 93"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"1333 2752 4"
+
+			"angles"	"0 0 0"
+		}
+	}
+}

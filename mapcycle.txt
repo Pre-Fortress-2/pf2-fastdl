@@ -6,7 +6,7 @@ arena_2fort
 arena_ravine
 balloon_race_v2b_pf2
 cp_canalzone2
-cp_chaoscanyon_a5a
+cp_chaoscanyon_a7
 cp_corporation_b3
 cp_labor_pf2
 ctf_2fort5_v2
@@ -15,6 +15,7 @@ ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
 ctf_crossover2_b2FIX
 ctf_mach_pf2
+ctf_push
 ctf_undermines_final
 ctf_xpress
 koth_harvest_pf2_new
@@ -22,3 +23,4 @@ koth_rooftop_reborn_4
 koth_spookface1_pf2
 pl_strider_v3
 rock2_b1_pf2
+turkeyburgers_tfc
