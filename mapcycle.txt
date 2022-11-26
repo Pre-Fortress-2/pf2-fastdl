@@ -24,5 +24,6 @@ koth_harvest_pf2_new
 koth_rooftop_reborn_4
 koth_spookface1_pf2
 pl_strider_v3
+pl_upward_betafied
 rock2_b1_pf2
 turkeyburgers_tfc
