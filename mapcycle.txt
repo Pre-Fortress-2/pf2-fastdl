@@ -11,6 +11,7 @@ cp_canalzone2
 cp_chaoscanyon_a7
 cp_corporation_b3
 cp_labor_pf2
+ctf_2
 ctf_2fort5_v2
 ctf_chaos
 ctf_classic_2fort_pf2
@@ -24,6 +25,5 @@ koth_harvest_pf2_new
 koth_rooftop_reborn_4
 koth_spookface1_pf2
 pl_strider_v3
-pl_upward_betafied
 rock2_b1_pf2
 turkeyburgers_tfc
