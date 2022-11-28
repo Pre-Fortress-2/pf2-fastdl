@@ -1,0 +1,119 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	// Acceptable entities
+	// item_armor
+	// item_grenadepack
+	// prop_dynamic
+	// item_healthkit_full
+	// item_healthkit_small
+	// item_healthkit_medium
+	// item_ammopack_full
+	// item_ammopack_small
+	// item_ammopack_medium
+	
+	// Pack this file in the map bsp or put it in the same place as the map!
+
+	cp_gorge // replace mapname with your map name!
+	{
+		// Normal entity that's not prop_dynamic.
+
+		// Blue Spawn Exit
+
+
+		"item_armor"
+		{
+			"origin"	"-6290 6561 -46"
+			"angles"	"0 270 0"
+		}
+
+
+		"item_armor"
+		{
+			"origin"	"-4572 3270 42"
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-4566 5966 86"
+			"angles"	"0 270 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-5746 5808 111"
+			"angles"	"0 270 0"
+		}
+
+		// 1st Stage
+
+		"item_armor"
+		{
+			"origin"	"-6017 3534 50"
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-6017 5044 -84"
+			"angles"	"0 270 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-6006 4228 -150"
+			"angles"	"0 270 0"
+		}
+
+
+		// Stage Middle
+
+		"item_armor"
+		{
+			"origin"	"-5184 2769 39"
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-6721 2254 98"
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-5457 2236 294"
+			"angles"	"0 270 0"
+		}
+
+
+		// 2nd Stage
+
+		"item_armor"
+		{
+			"origin"	"-5986 832 -94"
+			"angles"	"0 180 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-5104 1009 104"
+			"angles"	"0 180 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-6254 1908 290"
+			"angles"	"0 270 0"
+		}
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_2fort/chicken.mdl" // Model file path.
+			"origin"	"-4269 6460 -14"	// Coordinates.
+			"angles"	"0 195 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+	}
+}
