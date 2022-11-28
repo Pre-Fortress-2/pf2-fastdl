@@ -11,6 +11,7 @@ balloon_race_v2b_pf2
 cp_canalzone2
 cp_chaoscanyon_a7
 cp_corporation_b3
+cp_gorge
 cp_labor_pf2
 ctf_2
 ctf_2fort5_v2
