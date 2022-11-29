@@ -10,6 +10,7 @@ ad_storm
 arena_2fort
 arena_hijack
 arena_ravine
+axlfly
 balloon_race_v2b_pf2
 cp_canalzone2
 cp_chaoscanyon_a7
