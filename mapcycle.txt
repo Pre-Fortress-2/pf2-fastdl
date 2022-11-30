@@ -27,5 +27,6 @@ ctf_undermines_final
 ctf_xpress
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
+pl_metropolis_b5
 pl_strider_v3
 rock2_b1_pf2
