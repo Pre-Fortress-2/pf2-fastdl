@@ -7,8 +7,6 @@ ad_egypt
 ad_hijack
 ad_ksour_pf2
 ad_storm
-arena_2fort
-arena_hijack
 arena_ravine
 axlfly
 balloon_race_v2b_pf2
