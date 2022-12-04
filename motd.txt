@@ -22,9 +22,7 @@ ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
 ctf_crossover2
 ctf_mach_pf2
-ctf_push
-ctf_turbine_pf2_v2
-ctf_undermines_final
+ctf_turbine_pf2_v3
 ctf_xpress
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
