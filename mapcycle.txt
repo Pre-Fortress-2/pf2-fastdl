@@ -8,7 +8,6 @@ ad_storm
 arena_offblast_final
 arena_ravine
 axlfly_a1
-balloon_race_v2b_pf2
 cp_canalzone2
 cp_chaoscanyon_a7
 cp_corporation_b3
@@ -31,4 +30,3 @@ pl_metropolis_b5
 pl_strider_v3
 rctf_flagrun
 rock2_b1_pf2
-wacky_races_v2_pf2
