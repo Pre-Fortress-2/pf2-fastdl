@@ -23,6 +23,7 @@ The `.res` must use this format.
 "Resources"
 {
 	"maps/ctf_coolestmap_particles.txt"	"file"
-        "maps/some_file.vtf"	"file"
+        "materials/some_file.vtf"	"file"
+	"models/balls_heavy.mdl"	"file"
 }
 ```
