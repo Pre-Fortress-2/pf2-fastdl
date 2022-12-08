@@ -1,0 +1,76 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	cp_snowpath_b2
+	{
+		"item_armor"
+		{
+			"origin"	" -2418  -2793 516"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-1110  -1715 308"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	" -2250 242 409"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	" -844 2058 393"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"-678  -127 517"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"903 128 517"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	"1096  -2091 385"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"2457  -222 409"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"1313 1714 308"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"2656 2790 516"
+
+			"angles"	"0 0 0"
+		}
+	}
+}
