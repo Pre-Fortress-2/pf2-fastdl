@@ -10,6 +10,7 @@ ad_storm
 arena_offblast_final
 arena_ravine
 axlfly_a1
+cp_bestinclass_pf2
 cp_canalzone2
 cp_chaoscanyon_a7
 cp_corporation_b3
