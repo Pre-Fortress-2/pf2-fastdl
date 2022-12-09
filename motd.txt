@@ -28,6 +28,7 @@ ctf_mach_pf2
 ctf_steamroll_v2
 ctf_turbine_pf2_v3
 ctf_xpress
+hunted
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
 pl_badwater
