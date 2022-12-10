@@ -2,14 +2,13 @@
 ad_avanti_b1
 ad_castle4_pf2
 ad_cliffside_b1
-ad_dustbowl2
 ad_egypt
 ad_hijack
 ad_ksour_pf2
 ad_storm
 arena_offblast_final
 arena_ravine
-asc_waterpolo4_v1b
+asc_waterpolo4_v1c
 axlfly_a1
 cp_bestinclass_pf2
 cp_canalzone2
