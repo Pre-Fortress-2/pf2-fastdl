@@ -1,0 +1,95 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	// Acceptable entities
+	// item_armor
+	// item_grenadepack
+	// prop_dynamic
+	// item_healthkit_full
+	// item_healthkit_small
+	// item_healthkit_medium
+	// item_ammopack_full
+	// item_ammopack_small
+	// item_ammopack_medium
+	
+	// Pack this file in the map bsp or put it in the same place as the map!
+
+	ctf_2fort_tfc_winter // replace mapname with your map name!
+	{
+		// Normal entity that's not prop_dynamic.
+
+		// Blue Spawn Exit
+
+
+		"item_armor"
+		{
+			"origin"	"-6290 6561 -46"
+			"angles"	"0 270 0"
+		}
+
+
+		"item_armor"
+		{
+			"origin"	" -959  -3968  -67"
+
+			"angles"	"0 270 0"
+		}
+
+
+		"item_armor"
+		{
+			"origin"	" -591  -2418  -67"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-223  -1792 380"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"607  -1520  -419"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-600 1515  -419"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"233 1801 -508"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"594 2416  -67"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"960 3967  -67"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"227 1803 380"
+
+			"angles"	"0 270 0"
+		}
+	}
+}
