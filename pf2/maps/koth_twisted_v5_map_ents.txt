@@ -1,0 +1,20 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	koth_twisted_v5
+	{
+		"item_armor"
+		{
+			"origin"	"1 718 1"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-1  -718 1"
+
+			"angles"	"0 0 0"
+		}
+	}
+}

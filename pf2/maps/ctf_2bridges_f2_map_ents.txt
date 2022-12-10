@@ -1,0 +1,68 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	// Acceptable entities
+	// item_armor
+	// item_grenadepack
+	// prop_dynamic
+	// item_healthkit_full
+	// item_healthkit_small
+	// item_healthkit_medium
+	// item_ammopack_full
+	// item_ammopack_small
+	// item_ammopack_medium
+	
+	// Pack this file in the map bsp or put it in the same place as the map!
+
+	ctf_2bridges_f2 // replace mapname with your map name!
+	{
+		// Normal entity that's not prop_dynamic.
+
+		// Blue Spawn Exit
+
+
+		"item_armor"
+		{
+			"origin"	"1246  -1937  -16"
+
+			"angles"	"0 270 0"
+		}
+
+
+		"item_grenadepack"
+		{
+			"origin"	"734  -3150  -13"
+
+			"angles"	"0 270 0"
+		}
+
+
+		"item_armor"
+		{
+			"origin"	" -231  -3363 340"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-1933 1576  -99"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	" -1423 2741  -28"
+
+			"angles"	"0 270 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	" -405 2893 340"
+
+			"angles"	"0 270 0"
+		}
+	}
+}
