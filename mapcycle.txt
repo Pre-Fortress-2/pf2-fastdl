@@ -1,3 +1,4 @@
+4fortsniper_tf
 ad_avanti_b1
 ad_castle4_pf2
 ad_cliffside_b1
@@ -30,6 +31,7 @@ ctf_xpress
 huntedIFAILEDSHIT
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
+murderball_2011_rc3
 pl_badwater
 pl_metropolis_b5
 pl_minepit_pf2
