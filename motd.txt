@@ -21,6 +21,7 @@ cp_labor_pf2
 cp_no_mercy_b1
 cp_snowpath_b2
 ctf_2
+ctf_2fort_tfc_winter
 ctf_chaos
 ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
