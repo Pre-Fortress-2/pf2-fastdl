@@ -1,0 +1,188 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	pl_dbheights_b5
+	{
+		"item_armor"
+		{
+			"origin"	"-2013 2717  -251"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-1499 1904  -243"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	" -56 2698  -243"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	"203 2417  -255"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"152 1887  -390"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"-282 1102  -390"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	"-258 404  -571"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"1410 3027 -52"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"1450 1225 4"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	"2474 1488 4"
+
+			"angles"	"0 0 0"
+                                     }
+\\stage 2
+		"item_armor"
+		{
+			"origin"	"1731  -536  -187"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"2285 -1025  -123"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"2301  -859 4"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	"2096  -1888  -125"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"1305  -2015  -123"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	" -876  -1026  -44"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	" -623  -1621 4"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"-848  -1622 4"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	"-1212  -2775  -105"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	" -2382  -928  -10"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	" -2112 408  -60"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"-1921  -174 6"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	" -395  -574 132"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"924  -386 148"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_grenadepack"
+		{
+			"origin"	"730  -95 4"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"-414  -215 132"
+
+			"angles"	"0 0 0"
+		}
+	}
+}

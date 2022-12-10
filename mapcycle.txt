@@ -33,6 +33,7 @@ koth_harvest_pf2_new
 koth_rooftop_reborn_4
 murderball_2011_rc3
 pl_badwater
+pl_dbheights_b5
 pl_metropolis_b5
 pl_minepit_pf2
 pl_strider_v3
