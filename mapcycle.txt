@@ -1,5 +1,5 @@
 4fortsniper_tf
-ad_avanti_a1
+ad_avanti_a2
 ad_castle4_pf2
 ad_cliffside_b1
 ad_egypt
