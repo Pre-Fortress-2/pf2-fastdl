@@ -1,0 +1,27 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+	arena_mach2
+	{
+		"item_armor"
+		{
+			"origin"	" -112  -1232 36"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"534 742 -12"
+
+			"angles"	"0 0 0"
+                                     }
+
+		"item_armor"
+		{
+			"origin"	"822 2725 36"
+
+			"angles"	"0 0 0"
+		}
+	}
+}

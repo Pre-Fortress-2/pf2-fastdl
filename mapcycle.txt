@@ -6,6 +6,7 @@ ad_egypt
 ad_hijack
 ad_ksour_pf2
 ad_storm
+arena_mach2
 arena_offblast_final
 arena_ravine
 asc_waterpolo4_v1c
@@ -37,7 +38,6 @@ koth_rooftop_reborn_4
 koth_twisted_v5
 murderball_2011_rc3
 pl_badwater
-pl_borneo_pf2
 pl_dbheights_b5
 pl_metropolis_b5
 pl_minepit_pf2
