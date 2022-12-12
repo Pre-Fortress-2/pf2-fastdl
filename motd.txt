@@ -34,6 +34,7 @@ ctf_crossover2
 ctf_mach_pf2
 ctf_steamroll_v2
 ctf_turbine_pf2_v3
+ctf_Xmas2Fort_B3
 ctf_xpress
 huntedIFAILEDSHIT
 koth_harvest_pf2_new
