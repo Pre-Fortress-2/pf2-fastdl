@@ -1,5 +1,4 @@
 4fortsniper_tf
-ad_avanti_a2
 ad_castle4_pf2
 ad_cliffside_b1
 ad_egypt
@@ -15,6 +14,7 @@ cp_bestinclass_pf2
 cp_canalzone2
 cp_chaoscanyon_a7
 cp_corporation_b3
+cp_dustbowl_nights
 cp_gorge
 cp_labor_pf2
 cp_no_mercy_b1
