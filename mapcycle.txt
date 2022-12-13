@@ -36,6 +36,7 @@ ctf_turbine_pf2_v3
 ctf_Xmas2Fort_B3
 ctf_xpress
 huntedIFAILEDSHIT
+invade_well_b1
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
 koth_twisted_v5
