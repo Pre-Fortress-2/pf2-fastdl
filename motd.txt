@@ -6,6 +6,7 @@ ad_castle4_pf2
 ad_cliffside_b1
 ad_egypt
 ad_hijack
+ad_junction_pf2
 ad_ksour_pf2
 ad_storm
 arena_mach2
@@ -40,8 +41,10 @@ huntedIFAILEDSHIT
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
 koth_twisted_v5
+koth_viaduct_pf2pass
 murderball_2011_rc3
 pl_badwater
+pl_borneo_pf2_v2
 pl_dbheights_b5
 pl_metropolis_b5
 pl_minepit_pf2
