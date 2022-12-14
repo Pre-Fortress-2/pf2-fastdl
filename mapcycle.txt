@@ -25,6 +25,7 @@ ctf_2
 ctf_2bridges_f2
 ctf_2fort_tfc_winter
 ctf_badlands_classicb5
+ctf_beavercreek
 ctf_bloodgulch_pf2_v2
 ctf_chaos
 ctf_classic_2fort_pf2
