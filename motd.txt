@@ -1,7 +1,7 @@
 Map List:
 
 4fortsniper_tf
-ad_avanti_a4
+ad_avanti_a5
 ad_castle4_pf2
 ad_cliffside_b1
 ad_egypt
