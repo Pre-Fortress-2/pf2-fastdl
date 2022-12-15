@@ -22,6 +22,7 @@ cp_dustbowl_nights
 cp_gorge
 cp_labor_pf2
 cp_no_mercy_b1
+cp_powerhouse_reborn_pf
 cp_snowpath_b2
 ctf_2
 ctf_2bridges_f2
