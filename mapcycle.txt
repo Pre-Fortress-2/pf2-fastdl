@@ -12,7 +12,6 @@ arena_offblast_final
 arena_ravine
 asc_waterpolo4_v1c
 axlfly_a1
-bam4
 cp_bestinclass_pf2
 cp_canalzone2
 cp_chaoscanyon_a7
@@ -37,10 +36,9 @@ ctf_epicenter_a1
 ctf_mach_pf2
 ctf_steamroll_v2
 ctf_turbine_pf2_v3
-ctf_Xmas2Fort_B3
 ctf_xpress
 huntedIFAILEDSHIT
-invade_well_b2
+invade_well_b3
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
 koth_twisted_v5
