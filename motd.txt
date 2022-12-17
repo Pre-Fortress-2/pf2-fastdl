@@ -38,6 +38,7 @@ ctf_epicenter_a1
 ctf_mach_pf2
 ctf_steamroll_v2
 ctf_turbine_pf2_v3
+ctf_upstream_a1
 ctf_xpress
 huntedIFAILEDSHIT
 invade_well_b3
