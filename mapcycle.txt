@@ -1,5 +1,6 @@
 4fortsniper_tf
-ad_avanti_a5
+ad_avantiwendy
+ad_avanti_a6
 ad_castle4_pf2
 ad_cliffside_b1
 ad_egypt
@@ -32,7 +33,7 @@ ctf_chaos
 ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
 ctf_crossover2
-ctf_epicenter_a1
+ctf_epicenter_a2
 ctf_mach_pf2
 ctf_steamroll_v2
 ctf_turbine_pf2_v3
