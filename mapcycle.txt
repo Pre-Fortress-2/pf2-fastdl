@@ -14,7 +14,6 @@ arena_ravine
 asc_waterpolo4_v1c
 axlfly_a1
 cp_bestinclass_pf2
-cp_canalzone2
 cp_chaoscanyon_a7
 cp_corporation_b3
 cp_dustbowl_nights
@@ -24,7 +23,6 @@ cp_no_mercy_b1
 cp_powerhouse_reborn_pf
 cp_snowpath_b2
 ctf_2
-ctf_2bridges_f2
 ctf_2fort_tfc_winter
 ctf_badlands_classicb5
 ctf_beavercreek
