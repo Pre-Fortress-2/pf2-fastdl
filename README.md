@@ -1,4 +1,10 @@
 ## SO VERY IMPORTANT PLEASE READ ME
+
+AFTER YOU FINISH YOUR CHANGES AND BEFORE COMMITTING AND PUSHING CHANGES,
+
+RUN `mapcycle.py` TO UPDATE `mapcycle.txt` AND `motd.txt`
+
+### Add `.bz2` file of map
 Maps **must** be uploaded as .bz2 files.
 - Please download 7zip in order to compress them.
 
@@ -9,7 +15,6 @@ Right click on the map > 7zip > add to archive > BZip2.
 ### Add this in your server.cfg
 ```
 sv_allowdownload 1 
-sv_allowupload 1
 sv_downloadurl "https://pre-fortress-2.github.io/pf2-fastdl/pf2"
 ```
 
