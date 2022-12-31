@@ -2,7 +2,7 @@ Map List:
 
 4fortsniper_tf
 ad_avantiwendy
-ad_avanti_a6
+ad_avanti_a7
 ad_castle4_pf2
 ad_cliffside_b1
 ad_egypt
@@ -28,6 +28,7 @@ cp_powerhouse_reborn_pf
 cp_snowpath_b2
 ctf_2
 ctf_2fort_tfc_winter
+ctf_2_soul
 ctf_badlands_classicb5
 ctf_beavercreek
 ctf_bloodgulch_pf2_v2
@@ -45,6 +46,7 @@ huntedIFAILEDSHIT
 invade_well_b3
 koth_harvest_pf2_new
 koth_rooftop_reborn_4
+koth_sawmill_omp
 koth_twisted_v5
 koth_viaduct_pf2pass
 murderball_2011_rc3
