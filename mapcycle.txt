@@ -26,7 +26,7 @@ cp_powerhouse_reborn_pf
 cp_snowpath_b2
 ctf_2
 ctf_2fort_tfc_winter
-ctf_2_soul
+ctf_2_soul_fixed
 ctf_badlands_classicb5
 ctf_beavercreek
 ctf_bloodgulch_pf2_v2
