@@ -3,6 +3,8 @@ ad_avantiwendy
 ad_avanti_a7
 ad_castle4_pf2
 ad_cliffside_b1
+ad_dariobowl2
+ad_diybowl2
 ad_egypt
 ad_hijack
 ad_junction_pf2
