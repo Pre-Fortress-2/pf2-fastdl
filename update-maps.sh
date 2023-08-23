@@ -19,4 +19,5 @@ cp -r materials/ ../../
 rm -rf ../../models
 cp -r models/ ../../
 
+cd ..
 cp mapcycle.txt motd.txt ../../cfg
