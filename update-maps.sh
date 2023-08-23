@@ -14,9 +14,9 @@ cp *.res *.txt ../../../maps
 cd ..
 
 rm -rf ../../materials
-cp materials/ ../../
+cp -r materials/ ../../
 
 rm -rf ../../models
-cp models/ ../../
+cp -r models/ ../../
 
 cp mapcycle.txt motd.txt ../../cfg
