@@ -9,8 +9,11 @@ for i in *.bz2; do
     bzip2 -d $i
 done
 
+# Goes to pf2/download/maps
 mv *.bsp ../../../maps
-cp *.res *.txt ../../../maps
+
+# Has to go to pf2/maps for now
+cp *.res *.txt ../../../../maps
 cd ..
 
 rm -rf ../../materials
