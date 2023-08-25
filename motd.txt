@@ -36,6 +36,7 @@ ctf_strangled_a1
 ctf_turbine_pf2_v3
 ctf_two2forts
 hunted_actually_accurate_a2
+hunted_bibl_accurate_a6
 koth_karnak_rc4c
 koth_rooftop_reborn_4
 koth_sawmill_omp
