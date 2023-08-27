@@ -23,6 +23,7 @@ cp_gorge
 cp_labor_pf2
 cp_lazytown
 cp_no_mercy_b1
+cp_warpath2
 ctf_2
 ctf_badlands_classicb5
 ctf_chaos
@@ -31,12 +32,10 @@ ctf_convoy_v2_pf2
 ctf_crossover2
 ctf_epicenter_a2
 ctf_mach_pf2
-ctf_steamroll_v2
 ctf_strangled_a1
 ctf_turbine_pf2_v3
 ctf_two2forts
 hunted_actually_accurate_a2
-hunted_bibl_accurate_a6
 koth_karnak_rc4c
 koth_rooftop_reborn_4
 koth_sawmill_omp
