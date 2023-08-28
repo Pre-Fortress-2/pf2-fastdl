@@ -19,6 +19,7 @@ axlfly_a1
 cp_corporation_b3
 cp_dustbowl_nights
 cp_frontline_a1
+cp_fulgur_rc2a
 cp_gorge
 cp_labor_pf2
 cp_lazytown
