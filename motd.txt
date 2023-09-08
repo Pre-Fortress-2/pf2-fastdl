@@ -6,7 +6,7 @@ ad_dariobowl2
 ad_egypt
 ad_haarp
 ad_hijack
-ad_ksour_pf2
+ad_ksweet_v1
 ad_premuda_b1b
 ad_steel
 ad_walkerfort_a7
@@ -26,6 +26,7 @@ cp_lazytown
 cp_no_mercy_b1
 cp_warpath2
 ctf_2
+ctf_2morfort_b2
 ctf_badlands_classicb5
 ctf_chaos
 ctf_classic_2fort_pf2
