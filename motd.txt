@@ -31,8 +31,11 @@ ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
 ctf_crossover2
 ctf_mach_pf2
+ctf_openfire_ff
 ctf_two2forts
 ctf_xpress3
+dom_canalzone2_b4
+King_of_the_Train_final
 koth_karnak_rc4c
 koth_rooftop_reborn_4
 pl_cranetop_b8
