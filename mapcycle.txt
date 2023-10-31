@@ -21,6 +21,7 @@ cp_gorge
 cp_labor_pf2
 cp_nightfall
 cp_no_mercy_b1
+cp_smbcastle2
 cp_warpath2
 ctf_2morfort_b2
 ctf_badlands_classicb5
