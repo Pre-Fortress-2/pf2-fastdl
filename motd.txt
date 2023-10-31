@@ -38,6 +38,7 @@ ctf_turbine_pf2_v3
 ctf_two2forts
 ctf_xpress3
 dom_canalzone2_b4
+dom_cliffhanger_b11
 fb_waterpolo_v1
 ff_palermo_beta2
 King_of_the_Train_final
