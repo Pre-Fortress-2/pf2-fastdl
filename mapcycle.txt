@@ -14,6 +14,8 @@ arena_offblast_final
 arena_ravine
 arena_well_classic
 axlfly_a1
+bananalandv2
+cp_aqua
 cp_corporation_b3
 cp_frontline_a1
 cp_fulgur_rc2a
@@ -35,6 +37,7 @@ ctf_openfire_ff
 ctf_turbine_pf2_v3
 ctf_two2forts
 ctf_xpress3
+dom_canalzone
 dom_canalzone2_b4
 dom_cliffhanger_b11
 fb_waterpolo_v1
@@ -48,9 +51,11 @@ pl_cave_b6
 pl_cranetop_b8
 pl_dbheights_b5
 pl_halfacre
+pl_jungle_a1c
 pl_metropolis_b5
 pl_minepit_pf2
 pl_warpath_b7
 pl_waste_v2
+rats_tequila_b02
 rock2_b1_pf2
 tfc_dustbowl_fix
