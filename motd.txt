@@ -16,7 +16,6 @@ arena_offblast_final
 arena_ravine
 arena_well_classic
 axlfly_a1
-bananalandv2
 cp_aqua
 cp_corporation_b3
 cp_frontline_a1
