@@ -7,7 +7,6 @@ ad_junction_pf2
 ad_ksour_pf2
 ad_premuda_b1b
 ad_steel
-ad_walkerfort_a7
 arena_mach2
 arena_offblast_final
 arena_ravine
