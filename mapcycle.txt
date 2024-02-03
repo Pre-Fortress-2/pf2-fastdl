@@ -8,6 +8,7 @@ ad_ksour_pf2
 ad_premuda_b1b
 ad_signal_a1
 ad_steel
+ad_walkerfort_a8
 arena_mach2
 arena_offblast_final
 arena_ravine
@@ -40,6 +41,7 @@ fb_waterpolo_v1
 King_of_the_Train_final
 koth_karnak_rc4c
 koth_rooftop_reborn_4
+plr_satelites_indev1
 pl_angkor_rc2
 pl_beerbowl_b6c
 pl_cave_b6
