@@ -6,6 +6,7 @@ ad_haarp
 ad_junction_pf2
 ad_ksour_pf2
 ad_premuda_b1b
+ad_signal_a1
 ad_steel
 arena_mach2
 arena_offblast_final
@@ -50,6 +51,5 @@ pl_metropolis_b5
 pl_minepit_pf2
 pl_warpath_b7
 pl_waste_v2
-rats_tequila_b02
 rock2_b1_pf2
 tfc_dustbowl_fix
