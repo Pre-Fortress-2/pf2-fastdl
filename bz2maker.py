@@ -1,23 +1,18 @@
 from os import listdir
-import tarfile
+import zipfile
 
 def main():
     extension = ".bsp"
     dir = "pf2/maps"
 
-    print("Begging batch map compression.")
+    print("Beginning batch map compression.")
     for file in listdir(dir):
         if file.endswith(extension):
-            with tarfile.open(f'{dir}/{file}.bz2', 'w:bz2') as tar:
-                print(f"Compressing: {file}")
-                tar.add(f'{dir}/{file}')
-                tar.close()
+            print(f"Compressing: {file}")
+            with zipfile.ZipFile(f'{dir}/{file}.bz2', 'w') as zip:
+                zip.write(f'{dir}/{file}', arcname=file, compress_type=zipfile.ZIP_BZIP2)
     
     print("Batch map compression complete.")
 
 if __name__ == "__main__":
     main()
-
-
-        
-            
