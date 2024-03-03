@@ -27,7 +27,7 @@ cp_nightfall
 cp_no_mercy_b1
 cp_smbcastle2
 cp_warpath2
-ctf_2morfort_b2
+ctf_2morfort_b3
 ctf_badlands_classicb5
 ctf_chaos
 ctf_classic_2fort_pf2
