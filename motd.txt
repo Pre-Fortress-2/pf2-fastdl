@@ -9,7 +9,9 @@ ad_junction_pf2
 ad_ksour_pf2
 ad_premuda_b1b
 ad_signal_a1
+ad_solbasrj
 ad_steel
+ad_walkerfort_a8
 arena_mach2
 arena_offblast_final
 arena_ravine
@@ -37,7 +39,9 @@ ctf_openfire_ff
 ctf_turbine_pf2_v3
 ctf_two2forts
 ctf_xpress3
+dom_canalzone_b3
 dom_cliffhanger_b11
+dom_winter_war_a2b
 fb_waterpolo_v1
 King_of_the_Train_final
 koth_karnak_rc4c
