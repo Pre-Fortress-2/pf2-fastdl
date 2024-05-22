@@ -1,3 +1,5 @@
+# Script by Sour Dani for use with any fast-dl server.
+
 from os import listdir
 import zipfile
 
