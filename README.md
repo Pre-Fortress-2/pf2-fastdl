@@ -12,6 +12,12 @@ Right click on the map > 7zip > add to archive > BZip2.
 
 - THEN upload the map!
 
+## Included Scripts
+This repo includes
+- Mass `.bz2` maker
+- Updates maps in rotation
+- Updates mapcycle and maplist
+
 ### Add this in your server.cfg
 ```
 sv_allowdownload 1 
