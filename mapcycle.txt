@@ -56,7 +56,6 @@ pl_halfacre
 pl_jungle_a1c
 pl_metropolis_b5
 pl_minepit_pf2
-pl_warpath_b7
 pl_waste_v2
 rock2_b1_pf2
 tfc_dustbowl_fix
