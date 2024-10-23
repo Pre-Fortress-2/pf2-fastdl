@@ -51,10 +51,12 @@ koth_rooftop_pf2
 plr_satelites_indev1
 pl_angkor_rc2
 pl_beerbowl_b6c
+pl_cashworks_final1
 pl_cave_b6
 pl_cranetop_b8
 pl_dbheights_b5
 pl_halfacre
+pl_hoodoo
 pl_jungle_a1c
 pl_metropolis_b7
 pl_minepit_pf2
