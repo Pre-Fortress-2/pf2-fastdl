@@ -7,13 +7,14 @@ ad_ff_dustbowl_pf2_r2
 ad_haarp
 ad_hijack
 ad_junction_pf2
-ad_ksour_pf2
+ad_ksour_tfc2
 ad_premuda_b1b
 ad_signal_a1
 ad_steel
 ad_walkerfort_a8
 arena_mach2
 arena_offblast_final
+arena_poolday_v1
 arena_ravine
 arena_volcano_b4c
 axlfly_a1
