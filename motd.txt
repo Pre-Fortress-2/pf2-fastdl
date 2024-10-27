@@ -34,6 +34,7 @@ cp_warpath2
 ctf_2morfort_b3
 ctf_badlands_cf2
 ctf_badlands_classicb5
+ctf_badwater_b2
 ctf_chaos
 ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
@@ -59,6 +60,7 @@ pl_cashworks_final1
 pl_cave_b6
 pl_cranetop_b8
 pl_dbheights_b5
+pl_great_heights_b3
 pl_halfacre
 pl_hoodoo
 pl_jungle_a1c
