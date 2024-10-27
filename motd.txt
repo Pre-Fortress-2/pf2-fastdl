@@ -11,7 +11,6 @@ ad_hijack
 ad_junction_pf2
 ad_ksour_tfc2
 ad_premuda_b1b
-ad_signal_a1
 ad_steel
 ad_walkerfort_a8
 arena_mach2
@@ -40,7 +39,7 @@ ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
 ctf_crossover2
 ctf_destroy_tfc_pf2
-ctf_ff_bases_pf2
+ctf_ff_bases_pf2_r1
 ctf_mach_pf2
 ctf_turbine_pf2_v3
 ctf_two2forts
