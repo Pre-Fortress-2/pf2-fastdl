@@ -1,20 +1,23 @@
 # Script by Sour Dani for use with any fast-dl server.
 
 from os import listdir
-import zipfile
+import bz2
 
 def main():
     extension = ".bsp"
     dir = "pf2/maps"
 
-    print("Beginning batch map compression.")
-    for file in listdir(dir):
-        if file.endswith(extension):
-            print(f"Compressing: {file}")
-            with zipfile.ZipFile(f'{dir}/{file}.bz2', 'w') as zip:
-                zip.write(f'{dir}/{file}', arcname=file, compress_type=zipfile.ZIP_BZIP2)
-    
-    print("Batch map compression complete.")
-
+    try:
+        print("Beginning batch map compression.")
+        for file in listdir(dir):
+            if file.endswith(extension):
+                print(f"Compressing: {file}")
+                with open(f"{dir}/{file}", "rb") as data, open(f"{dir}/{file}.bz2", "wb") as file:
+                    bz2contents = bz2.compress(data.read(), 9)
+                    file.write(bz2contents)
+        print("Batch map compression complete.")
+    except Exception as ex:
+        print("Epic Fail: Conversion incomplete.")
+        print(ex)
 if __name__ == "__main__":
-    main()
+    main()  
