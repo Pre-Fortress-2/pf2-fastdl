@@ -12,9 +12,9 @@ def main():
         for file in listdir(dir):
             if file.endswith(extension):
                 print(f"Compressing: {file}")
-                with open(f"{dir}/{file}", "rb") as data, open(f"{dir}/{file}.bz2", "wb") as file:
+                with open(f"{dir}/{file}", "rb") as data, open(f"{dir}/{file}.bz2", "wb") as new_file:
                     bz2contents = bz2.compress(data.read(), 9)
-                    file.write(bz2contents)
+                    new_file.write(bz2contents)
         print("Batch map compression complete.")
     except Exception as ex:
         print("Epic Fail: Conversion incomplete.")
