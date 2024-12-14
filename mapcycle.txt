@@ -17,7 +17,6 @@ tc_hydro
 koth_badlandsad_avanti_b1
 ad_badwater_tfc_rc3
 ad_castle4_pf2
-ad_dustbowl2_rc10q
 ad_egypt
 ad_ff_dustbowl_pf2_r2
 ad_haarp
