@@ -30,6 +30,7 @@ arena_mach2
 arena_offblast_final
 arena_poolday_v1
 arena_ravine
+arena_trainyard_02
 arena_volcano_b4c
 axlfly_a1
 cp_aqua
