@@ -5,7 +5,7 @@ import bz2
 
 def main():
     extension = ".bsp"
-    dir = "pf2/maps"
+    dir = "maps"
 
     try:
         print("Beginning batch map compression.")
