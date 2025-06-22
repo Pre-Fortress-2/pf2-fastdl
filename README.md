@@ -21,7 +21,7 @@ This repo includes
 ### Add this in your server.cfg
 ```
 sv_allowdownload 1 
-sv_downloadurl "https://pre-fortress-2.github.io/pf2-fastdl/pf2"
+sv_downloadurl "https://pre-fortress-2.github.io/pf2-fastdl"
 ```
 
 ### Adding misc files.

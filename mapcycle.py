@@ -4,9 +4,10 @@ from os import listdir, path
 
 def main():
     extension = ".bsp.bz2"
-    dir = "pf2/maps" 
+    dir = "maps" 
+    server_name = "fdl"
     try:
-        with open("mapcycle.txt", "w") as mapcycle, open("motd.txt", "w") as motd:
+        with open(f"cfg/{server_name}_mapcycle.txt", "w") as mapcycle, open(f"cfg/{server_name}_motd.txt", "w") as motd:
             motd.write("Map List:\n\n")
             if path.isfile("default_mapcycle.txt"):
                 with open("default_mapcycle.txt") as default_maps:
@@ -20,6 +21,3 @@ def main():
         print(ex)
 if __name__ == "__main__":
     main()
-
-    
-    
