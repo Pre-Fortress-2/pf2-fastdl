@@ -1,3 +1,18 @@
+# IMPORTANT INSTRUCTIONS
+## ADDING A MAP
+- PLACE MAPS IN `maps` AS `.bsp` OR `.bz2` FILES
+- RUN `bs2maker.py` IF `.bsp` WAS ADDED
+- RUN `mapcycle.py` 
+- RUN `mapcycle.py`
+- MAKE SURE NEW FILES ARE SELECTED TO COMMIT
+- ADD A COMMIT MESSAGE (DESCRIPTION IS OPTIONAL)
+
+## REMOVING A MAP
+- DELETE MAP `.bsp.bz2` FILE
+- RUN `mapcycle.py`
+- MAKE SURE CHANGES ARE IN COMMIT
+- ADD A COMMIT MESSAGE (DESCRIPTION IS OPTIONAL)
+
 ## Updating the `default_mapcycle.txt` file
 You can *add* or *remove* a default map from rotation by editing the `default_mapcycle.txt` file.
 - **Please do not add default maps to the generated `_mapcycle.txt` files or to this repo**
