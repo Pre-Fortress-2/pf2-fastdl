@@ -5,7 +5,7 @@ ad_avanti_b1
 ad_badwater_tfc_rc3
 ad_castle4_pf2
 ad_diykeep_a1
-ad_dustbowl2_rc10q
+ad_dustbowl2_rc10r
 ad_egypt
 ad_haarp
 ad_hijack1p5
@@ -24,14 +24,15 @@ axlfly_a1
 cp_aqua
 cp_corporation_b3
 cp_desperados_b2
+cp_dustbowl_snowy_a4
 cp_frontline_a1
 cp_fulgur_rc2a
 cp_gorge
 cp_labor_pf2
 cp_nightfall
 cp_no_mercy_b1
+cp_oilfield_v2
 cp_redstone_b2
-cp_smbcastle2
 cp_stark_b2
 cp_tidal_v3
 cp_warpath2
@@ -41,6 +42,7 @@ ctf_badlands_cf2
 ctf_badlands_classicb5
 ctf_badwater_b2
 ctf_biomass_rc1
+ctf_casbah3_b4
 ctf_chaos
 ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
@@ -56,13 +58,13 @@ ctf_xpress3
 dom_cliffhanger_b11_tf2c
 dom_cz1_pf2_v3
 dom_disneyworld_a1_v1
-dom_standin
 fb_waterpolo_v1
 inv_brickyard
 koth_basalt_rc2
 koth_garbage_day_final
 koth_karnak_rc4c
 koth_rooftop_pf2
+koth_viaduct_pf2pass
 plr_dogbread_b3
 plr_panic_b2
 plr_satelites_indev1
@@ -75,6 +77,7 @@ pl_cranetop_b8
 pl_dbheights_b5
 pl_farmstead_rc1
 pl_frontier_b2
+pl_frostward
 pl_great_heights_b3
 pl_halfacre
 pl_hoodoo
