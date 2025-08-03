@@ -58,6 +58,7 @@ ctf_xpress3
 dom_cliffhanger_b11_tf2c
 dom_cz1_pf2_v3
 dom_disneyworld_a1_v1
+dom_flagrun_proto_v1
 fb_waterpolo_v1
 inv_brickyard
 koth_basalt_rc2
