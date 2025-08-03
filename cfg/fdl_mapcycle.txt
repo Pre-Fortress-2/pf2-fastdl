@@ -103,4 +103,5 @@ pl_outback_rc4
 pl_swiftwater
 pl_waste_v2
 rock2_b1_pf2
+tdm_painhouse_pf2m_rc1
 tfc_dustbowl_fix
