@@ -41,7 +41,7 @@ Maps **MUST** be converted to `.bz2` files:
 	- For Windows server use only
 	- Updates the repo and extracts the `.bsp` files
 
-## Adding `pf2beta-fastdl` to your server
+## Adding `pf2-fastdl` to your server
 - Add to your `cfg/server.cfg`:
 ```bash
 sv_allowdownload 1 
@@ -51,7 +51,7 @@ sv_downloadurl "https://pre-fortress-2.github.io/pf2-fastdl"
 ```bash
 git clone https://github.com/Pre-Fortress-2/pf2-fastdl
 ```
-- Using the generated `_mapcycle.txt` file is optional
+- Using the generated `_mapcycle.txt` and `_motd` file is optional can be added using `+mapcyclefile name_mapcycle.txt +motdfile name_motd.txt`
 
 ## Adding other files
 Make a `.res` that shares same name as your map.
