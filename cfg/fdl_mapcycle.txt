@@ -104,4 +104,5 @@ pl_swiftwater
 pl_waste_v2
 rock2_b1_pf2
 tdm_painhouse_pf2m_rc2
+tdm_skate_pf2m
 tfc_dustbowl_fix
