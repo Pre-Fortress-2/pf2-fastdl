@@ -35,6 +35,7 @@ cp_no_mercy_b1
 cp_stark_b2
 cp_tidal_v3
 cp_warpath2
+cp_warpath_pyspy_a1
 ctf_2morfort_b3
 ctf_badlands_cf2
 ctf_badlands_classicb5
@@ -90,6 +91,6 @@ pl_outback_rc4
 pl_swiftwater
 pl_waste_v2
 rock2_b1_pf2
-tdm_painhouse_pf2m_rc2
-tdm_skate_pf2m
+tdm_grainhouse
+tdm_skate
 tfc_dustbowl_fix
