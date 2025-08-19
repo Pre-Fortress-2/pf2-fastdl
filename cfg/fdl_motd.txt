@@ -56,6 +56,7 @@ ctf_two2forts
 ctf_well_tfc
 ctf_xpress3
 ctf_xpress3_pf2m
+ctf_xpress_a1_pf2
 dom_cliffhanger_b11_tf2c
 dom_cz1_pf2_v3
 dom_disneyworld_a1_v1
@@ -94,4 +95,5 @@ pl_waste_v2
 rock2_b1_pf2
 tdm_grainhouse
 tdm_skate
+tdm_wiseau_b4
 tfc_dustbowl_fix
