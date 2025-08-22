@@ -49,7 +49,7 @@ cp_no_mercy_b1
 cp_stark_b2
 cp_tidal_v3
 cp_warpath2
-cp_warpath_pyspy_a1
+cp_warpath_pyspy_a2
 ctf_2morfort_b3
 ctf_badlands_cf2
 ctf_badlands_classicb5
