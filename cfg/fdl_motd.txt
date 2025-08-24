@@ -7,6 +7,7 @@ ad_castle4_pf2
 ad_diykeep_a1
 ad_dustbowl2_rc10r
 ad_egypt
+ad_gorge
 ad_haarp
 ad_hijack1p5
 ad_junction_pf2
@@ -30,10 +31,10 @@ cp_desperados_b2
 cp_dustbowl_snowy_a4
 cp_frontline_a1
 cp_fulgur_rc2a
-cp_gorge
 cp_labor_pf2
 cp_nightfall
 cp_no_mercy_b1
+cp_powerhouse_reborn_pf
 cp_stark_b2
 cp_tidal_v3
 cp_warpath2
