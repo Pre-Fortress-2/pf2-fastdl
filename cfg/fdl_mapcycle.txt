@@ -50,7 +50,6 @@ cp_no_mercy_b1
 cp_powerhouse_reborn_pf
 cp_stark_b2
 cp_tidal_v3
-cp_warpath2
 cp_warpath_pyspy_a3
 ctf_2morfort_b3
 ctf_badlands_cf2
@@ -70,7 +69,6 @@ ctf_rockslide_a1
 ctf_turbine_pf2_v3
 ctf_two2forts
 ctf_well_tfc
-ctf_xpress3
 ctf_xpress3_pf2m
 ctf_xpress_a1_pf2
 dom_cliffhanger_b11_tf2c
