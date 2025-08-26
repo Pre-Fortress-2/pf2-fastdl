@@ -106,6 +106,7 @@ pl_outback_rc4
 pl_swiftwater
 pl_waste_v2
 rock2_b1_pf2
+tdm_2fort
 tdm_crossfire_rc2
 tdm_grainhouse
 tdm_skate
