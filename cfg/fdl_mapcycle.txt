@@ -59,6 +59,7 @@ ctf_casbah3_b4
 ctf_chaos
 ctf_classic_2fort_pf2
 ctf_convoy_v2_pf2
+ctf_crackhouse_pf2_port
 ctf_crossover2
 ctf_destroy_tfc_pf2
 ctf_ff_bases_pf2_r1
