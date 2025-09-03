@@ -13,7 +13,7 @@ ad_haarp
 ad_hijack1p5
 ad_junction_pf2
 ad_ksweet_v1
-ad_pointbreaker
+ad_palermo_tfc_a1
 ad_premuda_b1b
 ad_signal_a3
 ad_steel_beta_v1-9
