@@ -43,6 +43,7 @@ ctf_badlands_cf2
 ctf_badlands_classicb5
 ctf_badwater_b2
 ctf_biomass_rc1
+ctf_cancer_beta5
 ctf_casbah3_b4
 ctf_chaos
 ctf_classic_2fort_pf2
@@ -54,6 +55,7 @@ ctf_ff_bases_pf2_r1
 ctf_haboob_b3
 ctf_mach_pf2
 ctf_rockslide_a1
+ctf_storage
 ctf_turbine_pf2_v3
 ctf_two2forts
 ctf_well_tfc
