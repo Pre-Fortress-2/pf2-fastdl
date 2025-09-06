@@ -85,6 +85,8 @@ pl_cashworks_final1
 pl_cave_b6
 pl_cranetop_b8
 pl_dbheights_b5
+pl_dustbowl2_rc2
+pl_dustbowl_b4_pf2_a1
 pl_farmstead_rc1
 pl_frontier_b2
 pl_frostward
