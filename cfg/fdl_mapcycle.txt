@@ -52,6 +52,7 @@ cp_labor_pf2
 cp_nightfall
 cp_no_mercy_b1
 cp_stark_b2
+cp_steel_b
 cp_storm
 cp_tidal_v3
 cp_warpath_pyspy_a3
