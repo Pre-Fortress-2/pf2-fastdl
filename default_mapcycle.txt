@@ -8,10 +8,13 @@ cp_granary
 cp_staredown
 cp_well
 ctf_2fort
+ctf_2fort_event
 ctf_badlands
+ctf_cloister
 ctf_well
+dom_canalzone
+koth_badlands
 koth_crossover
 pl_goldrush
 plr_chariots
 tc_hydro
-koth_badlands
