@@ -101,7 +101,6 @@ pl_minepit_pf2
 pl_outback_rc4
 pl_swiftwater
 pl_waste_v2
-rctf_epicenter_2006
 rock2_b1_pf2
 tdm_2fort
 tdm_bounce_pf2_rc2
