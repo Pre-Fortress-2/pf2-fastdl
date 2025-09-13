@@ -47,7 +47,6 @@ church
 cp_aqua
 cp_corporation_b3
 cp_desperados_b2
-cp_dustbowl_snowy_a4
 cp_frontline_a1
 cp_fulgur_rc2a
 cp_labor_pf2
@@ -97,7 +96,6 @@ koth_viaduct_pf2pass
 plr_dogbread_b3
 plr_panic_b2
 plr_satelites_indev1
-plr_upward_rc3
 pl_angkor_rc2
 pl_beerbowl_b6c
 pl_cashworks_final1
@@ -108,7 +106,6 @@ pl_dustbowl2_rc4
 pl_dustbowl_b4_pf2_a1
 pl_farmstead_rc1
 pl_frontier_b2
-pl_frostward
 pl_great_heights_b3
 pl_halfacre
 pl_hoodoo
@@ -119,7 +116,6 @@ pl_swiftwater
 pl_waste_v2
 rock2_b1_pf2
 tdm_2fort
-tdm_barraco2_rc1
 tdm_bounce_pf2_rc2
 tdm_crossfire_rc2
 tdm_grainhouse
