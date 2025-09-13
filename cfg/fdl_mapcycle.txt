@@ -119,6 +119,7 @@ pl_swiftwater
 pl_waste_v2
 rock2_b1_pf2
 tdm_2fort
+tdm_barraco2_rc1
 tdm_bounce_pf2_rc2
 tdm_crossfire_rc2
 tdm_grainhouse
