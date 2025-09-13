@@ -66,7 +66,6 @@ ctf_well_tfc
 ctf_xpress3_pf2m
 ctf_xpress_a1_pf2
 dom_cliffhanger_b11_tf2c
-dom_cz1_pf2_v3
 dom_disneyworld_a1_v1
 dom_flagrun_proto_v1
 fb_waterpolo_v1
