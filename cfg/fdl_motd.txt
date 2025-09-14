@@ -72,7 +72,6 @@ koth_block_fort_a2
 koth_garbage_day_final
 koth_karnak_rc4c
 koth_rooftop_pf2
-koth_viaduct_pf2pass
 plr_dogbread_b3
 plr_panic_b2
 plr_satelites_indev1
