@@ -79,6 +79,7 @@ ctf_xpress_a1_pf2
 dom_cliffhanger_b11_tf2c
 dom_disneyworld_a1_v1
 dom_flagrun_proto_v1
+dom_oilcanyon
 fb_waterpolo_v1
 gw_rock
 inv_brickyard
