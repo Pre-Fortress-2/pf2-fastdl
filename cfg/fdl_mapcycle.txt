@@ -80,6 +80,7 @@ dom_cliffhanger_b11_tf2c
 dom_disneyworld_a1_v1
 dom_flagrun_proto_v1
 dom_oilcanyon
+dom_prepost
 fb_waterpolo_v1
 gw_rock
 inv_brickyard
