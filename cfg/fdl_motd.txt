@@ -20,6 +20,7 @@ ad_solbasrj
 ad_steel_beta_v1-9
 ad_walkerfort_a8
 arena_betteryard_rc1
+arena_farmhouse
 arena_mach2
 arena_offblast_final
 arena_poolday_v1
