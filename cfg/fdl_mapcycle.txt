@@ -96,6 +96,7 @@ pl_outback_rc4
 pl_swiftwater
 pl_waste_v2
 rock2_b1_pf2
+tc_hydro_alpha_jc43
 tdm_2fort
 tdm_barraco1
 tdm_barraco2_rc2
