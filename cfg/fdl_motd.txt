@@ -15,6 +15,7 @@ ad_junction_pf2
 ad_ksweet_v1
 ad_palermo_tfc_a1
 ad_premuda_b1b
+ad_sandbowl_tfc_v1
 ad_steel_beta_v1-9
 ad_walkerfort_a8
 arena_farmhouse_final
@@ -26,7 +27,6 @@ arena_volcano_b4c
 axlfly_a1
 church
 cp_aqua
-cp_corporation_b3
 cp_desperados_b2
 cp_frontline_a1
 cp_fulgur_rc2a
