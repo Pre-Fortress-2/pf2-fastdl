@@ -84,6 +84,7 @@ koth_farmhouse_event
 koth_garbage_day_final
 koth_karnak_rc4c
 koth_rooftop_pf2
+koth_valley
 plr_dogbread_b3
 plr_panic_b2
 plr_satelites_indev1
