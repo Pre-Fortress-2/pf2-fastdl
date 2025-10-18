@@ -98,7 +98,7 @@ pl_hoodoo
 pl_metropolis_b7
 pl_minepit_pf2
 pl_outback_rc4
-pl_protowater_rc2
+pl_protowater
 pl_swiftwater
 pl_waste_v2
 qwtf_hunted
