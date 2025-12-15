@@ -41,7 +41,6 @@ arena_quarry_back
 arena_ravine
 arena_trainyard_02
 arena_volcano_b4c
-axlfly_a1
 church
 cp_aqua
 cp_desperados_b2
