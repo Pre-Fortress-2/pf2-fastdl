@@ -32,6 +32,7 @@ ad_sandbowl_tfc_v1
 ad_steel_beta_v1-10
 ad_walkerfort_a8
 arena_farmhouse_final
+arena_grax
 arena_mach2
 arena_nucleoid_pf2
 arena_quarry_back
@@ -68,6 +69,8 @@ koth_sulfur_day_rc1
 koth_valley_final
 ktc_axlfly_pf2
 plr_satelites_indev1
+pl_beerbowl_pf2
+pl_hoodoopre_rc1
 pl_minepit_pf2
 pl_protowater
 pl_swiftwater
@@ -81,3 +84,4 @@ tdm_grainhouse
 tdm_skate
 tdm_wiseau_b4
 tfc_dustbowl_fix
+tow_waste_pf2
