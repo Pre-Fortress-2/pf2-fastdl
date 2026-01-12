@@ -24,7 +24,7 @@ ad_diykeep_a1
 ad_dustbowl2_rc10r
 ad_egypt
 ad_gorge
-ad_haarp
+ad_haarp_pf2
 ad_hijack1p5
 ad_ksweet_v1
 ad_palermo_tfc_a1
