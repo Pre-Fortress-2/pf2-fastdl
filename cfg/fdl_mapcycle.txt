@@ -48,9 +48,11 @@ ctf_convoy_v2_pf2
 ctf_destroy_tfc_pf2
 ctf_ff_bases_pf2_r1
 ctf_mach_pf2
+ctf_smb_1dash1
 ctf_turbine_pf2_v3
 ctf_two2forts
 ctf_well_tfc
+ctf_xpress
 dom_cz1_pf2_v4
 dom_disneyworld_a1_v1
 dom_flagrun_proto_v1
@@ -84,6 +86,7 @@ tdm_bounce_pf2_rc2
 tdm_crossfire_rc2
 tdm_grainhouse
 tdm_skate
+tdm_sweeperhouse
 tdm_wiseau_b4
 tfc_dustbowl_fix
 tow_waste_pf2
