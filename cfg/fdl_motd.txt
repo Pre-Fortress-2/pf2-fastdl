@@ -68,6 +68,7 @@ sd_predoomsday_rc1
 tc_hydro_alpha_jc43
 tdm_2fort
 tdm_bounce_pf2_rc2
+tdm_boxy_b2
 tdm_crossfire_rc2
 tdm_grainhouse
 tdm_skate
