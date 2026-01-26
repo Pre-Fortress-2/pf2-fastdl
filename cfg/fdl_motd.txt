@@ -59,7 +59,6 @@ ktc_axlfly_pf2
 plr_satelites_indev1
 pl_beerbowl_pf2
 pl_hoodoopre_rc2
-pl_metropolis_pf2_rc1
 pl_minepit_pf2
 pl_protowater
 pl_swiftwater
