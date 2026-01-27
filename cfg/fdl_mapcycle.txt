@@ -59,7 +59,7 @@ dom_flagrun_proto_v1
 dom_oilcanyon
 dom_parley_final
 fb_waterpolo_v1
-htf_vertigo_a2
+htf_vertigo_a3
 inv_axlfly_rc2
 inv_brickyard
 inv_pinewood_b1
