@@ -22,6 +22,7 @@ arena_nucleoid_pf2
 arena_quarry_back
 arena_trainyard_02
 church
+cp_dust2
 cp_frontline_a1
 cp_labor_pf2
 cp_warpath_pyspy_a3
