@@ -2,6 +2,7 @@ Map List:
 
 - Includes stock maps
 ad_avanti_jb3_a4
+ad_avanti_tf2c
 ad_badwater_tfc_rc3
 ad_castle4_pf2
 ad_diykeep_a1
