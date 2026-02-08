@@ -7,7 +7,7 @@ echo Extracting map archives
 cd maps
 for i in *.bz2; do
     if [ -f "$i" ]; then
-        bzip2 -vd $i
+        bzip2 -vdk $i
     fi
 done
 
