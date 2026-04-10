@@ -67,6 +67,7 @@ pl_hoodoopre_rc2
 pl_minepit_pf2
 pl_protowater
 pl_swiftwater
+q3f_gotduck_v1
 rock2_b1_pf2
 sd_predoomsday_rc1
 tc_hydro_alpha_jc43
